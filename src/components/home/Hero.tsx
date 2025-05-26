@@ -15,7 +15,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white leading-tight">
-             yasmine's application{' '}
+             yasmine's applicationnn{' '}
               <span className="text-primary-600 dark:text-primary-400">Beautiful Design</span>
             </h1>
             <p className="mt-6 text-lg text-gray-600 dark:text-gray-300">
